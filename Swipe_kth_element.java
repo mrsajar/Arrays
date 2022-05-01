@@ -15,6 +15,5 @@ public class Swipe_kth_element {
         for(int i=0;i<array.length;i++){
             System.out.println(array[i]);
         }
-
     }
 }
